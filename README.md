@@ -40,5 +40,5 @@ Systems Programming · Backend Development · Software Engineering · Cybersecur
 
 ## 📫 Contact
 
-- **LinkedIn:** (YOUR_LINKEDIN_URL)
-- **Email:** [ismail.knina.dev@gmail.com](ismail.knina.dev@gmail.com)
+- **LinkedIn:** YOUR_LINKEDIN_URL
+- **Email:**  ismail.knina.dev@gmail.com
